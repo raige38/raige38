@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Raige! 👋
 
 I'm a software developer finishing up my apprenticeship, with a passion for building cool stuff and solving interesting problems. Here's a bit about me:
 
