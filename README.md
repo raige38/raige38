@@ -1,8 +1,7 @@
-### Hi there, I'm Raige! 👋
+### Hi there, I'm Regi! 👋
 
-I'm a software developer finishing up my apprenticeship, with a passion for building cool stuff and solving interesting problems. Here's a bit about me:
+I'm a junior software developer, with a passion for building cool stuff and solving interesting problems. Here's a bit about me:
 
-- 🔭 I’m currently finishing my apprenticeship as a software developer.
 - 🌱 I’m skilled in TypeScript, React, Angular, Python (Django Rest Framework), Java, C#, SQL (MySQL, PostgreSQL), LaTeX, and Scrum.
 - 😄 Fun fact: I can switch between technology like a pro!
 - 💬 Ask me about anything! Whether it's about coding and tech.
